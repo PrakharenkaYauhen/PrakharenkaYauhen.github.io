@@ -1,1 +1,1 @@
-var timeId = setTimeout ("alert ('Hello')", 5000);
+alert ('Hello');
