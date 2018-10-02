@@ -1,1 +1,1 @@
-var timerId = setTimeout ("alert ('Hello')", 5000);
+var timeId = setTimeout ("alert ('Hello')", 5000);
