@@ -1,8 +1,4 @@
-var num1 = 10; 
-var num2 = 20;
+for (var i = 0; i < 10000000; i++) {
+}
 
-var sum = num1 + num2;
-
-var multi = num1 * num2;
-
-alert (num1 + ' + ' + num2 + ' = ' + sum);
+alert ('Выполнился первый скрипт');
