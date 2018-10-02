@@ -1,1 +1,1 @@
-alert ('Hello');
+setTimeout ("alert ('Hello')", 5000);
