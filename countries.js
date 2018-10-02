@@ -15,7 +15,7 @@ function deleteCountry(countryName) {
 // получение информации о стране и возвращение строки с этой информацией или ошибкой
 function getCountryInfo(сountryName) {
 	if ( сountryName in сountries ) {
-		return ('страна: ' + сountryName + ' столица: ' + сountries[сountryName]);
+		return ('страна: ' + сountryName + ' столица: ' + countries[сountryName]);
 	}
 	else {
 		return ('нет информации о стране ' + сountryName + '!');
