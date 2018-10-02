@@ -2,4 +2,4 @@ var a = 10;
 
 alert (a);
 
-alert(document.body);
+alert(document.body.innerHTML);
