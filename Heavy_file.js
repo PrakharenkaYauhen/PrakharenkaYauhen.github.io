@@ -5,4 +5,4 @@ var sum = num1 + num2;
 
 var multi = num1 * num2;
 
-var timerId = setTimeout ("alert (num1 + ' + ' + num2 + ' = ' + sum)", 5000);
+alert (num1 + ' + ' + num2 + ' = ' + sum);
